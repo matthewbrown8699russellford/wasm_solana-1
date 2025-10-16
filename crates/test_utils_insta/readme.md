@@ -7,3 +7,5 @@
 ```rust
 use test_utils_insta::*;
 ```
+
+<!-- Auto-update: 2025-10-16T12:40:25.304357 -->
